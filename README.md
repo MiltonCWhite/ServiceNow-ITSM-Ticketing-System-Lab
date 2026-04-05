@@ -22,7 +22,7 @@ Proper documentation using work notes and resolution notes
 
 <img width="2241" height="515" alt="create-user-john_doe png" src="https://github.com/user-attachments/assets/2dac3371-79ef-47c9-8115-7b0d186296f5" />
 
-
+<br> </br>
 Incident Simulation – Inquiry/Help
 Ticket Type: Network Drive Access Issue
 Priority: Low (P3)
@@ -47,7 +47,6 @@ Screenshots:
 
 <img width="2558" height="1174" alt="03-inquiry-help-resolved png" src="https://github.com/user-attachments/assets/5f80ea00-3812-4154-b87f-9bc0c3ad6bfb" />
 
-</>
 Incident Simulation – Software Installation Issue
 Ticket Type: Application Installation Failure
 Priority: Medium (P2)
