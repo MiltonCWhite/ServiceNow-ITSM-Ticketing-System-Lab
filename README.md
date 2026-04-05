@@ -76,7 +76,7 @@ Screenshots:
 <img width="2239" height="1253" alt="04-software-resolved png" src="https://github.com/user-attachments/assets/518c5cf1-8556-43f5-8da0-b4527f68e700" />
 
 
-
+<br> </br>
 Incident Simulation – Hardware Failure
 Ticket Type: Laptop Power Issue
 Priority: High (P2)
