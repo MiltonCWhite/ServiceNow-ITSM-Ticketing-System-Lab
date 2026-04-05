@@ -1,6 +1,6 @@
 # ServiceNow ITSM Ticketing System Lab
 
-ServiceNow ITSM Ticketing System Lab
+ServiceNow ITSM Ticketing System Lab <br>
 By: Milton White
 
 This project simulates real-world IT support operations using a ServiceNow incident management system. A total of 27 incident tickets were created and managed across multiple categories, including Inquiry/Help, Software, Hardware, Network, Database, and Password Reset.
@@ -29,7 +29,7 @@ Screenshots:
 <br> </br>
 Incident Simulation – Inquiry/Help <br>
 Ticket Type: Network Drive Access Issue <br>
-Priority: Low (P3)
+Priority: Low (P4)
 
 Summary:
 User reported inability to access the shared network drive. Initial troubleshooting confirmed correct permissions and group membership. The user lacked knowledge of the drive mapping procedure.
@@ -144,7 +144,7 @@ Screenshots:
 <br> </br>
 Incident Simulation – Password Reset <br>
 Ticket Type: Account Lockout <br>
-Priority: Medium (P2)
+Priority: Medium (P3)
 
 Summary:
 User account locked after multiple failed login attempts. Immediate access required for business operations.
