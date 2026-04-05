@@ -27,8 +27,8 @@ Screenshots:
 <img width="2241" height="515" alt="create-user-john_doe png" src="https://github.com/user-attachments/assets/2dac3371-79ef-47c9-8115-7b0d186296f5" />
 
 <br> </br>
-Incident Simulation – Inquiry/Help
-Ticket Type: Network Drive Access Issue
+Incident Simulation – Inquiry/Help <br> </br>
+Ticket Type: Network Drive Access Issue <br> </br>
 Priority: Low (P3)
 
 Summary:
