@@ -47,8 +47,7 @@ Screenshots:
 
 <img width="2558" height="1174" alt="03-inquiry-help-resolved png" src="https://github.com/user-attachments/assets/5f80ea00-3812-4154-b87f-9bc0c3ad6bfb" />
 
-
-
+</>
 Incident Simulation – Software Installation Issue
 Ticket Type: Application Installation Failure
 Priority: Medium (P2)
