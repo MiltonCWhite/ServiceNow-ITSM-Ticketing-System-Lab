@@ -22,6 +22,7 @@ Proper documentation using work notes and resolution notes
 
 <img width="2241" height="515" alt="create-user-john_doe png" src="https://github.com/user-attachments/assets/2dac3371-79ef-47c9-8115-7b0d186296f5" />
 
+
 Incident Simulation – Inquiry/Help
 Ticket Type: Network Drive Access Issue
 Priority: Low (P3)
@@ -45,6 +46,7 @@ Screenshots:
 <img width="2548" height="1028" alt="02-inquiry-help-in-progress png" src="https://github.com/user-attachments/assets/32ec727c-e4c3-4631-b7c2-1ebea8320f58" />
 
 <img width="2558" height="1174" alt="03-inquiry-help-resolved png" src="https://github.com/user-attachments/assets/5f80ea00-3812-4154-b87f-9bc0c3ad6bfb" />
+
 
 
 Incident Simulation – Software Installation Issue
@@ -75,6 +77,7 @@ Screenshots:
 <img width="2239" height="1253" alt="04-software-resolved png" src="https://github.com/user-attachments/assets/518c5cf1-8556-43f5-8da0-b4527f68e700" />
 
 
+
 Incident Simulation – Hardware Failure
 Ticket Type: Laptop Power Issue
 Priority: High (P2)
@@ -101,6 +104,7 @@ Screenshots:
 <img width="2241" height="1255" alt="03-hardware-escalated png" src="https://github.com/user-attachments/assets/d411339a-4445-4f80-a54a-4bb583594d12" />
 
 <img width="2240" height="1253" alt="04-hardware-resolved png" src="https://github.com/user-attachments/assets/cde836d7-2e5f-4afb-bc37-54cb83432f99" />
+
 
 
 Incident Simulation – Database Access Issue
@@ -132,6 +136,7 @@ Screenshots:
 <img width="2238" height="1254" alt="04-database-resolved png" src="https://github.com/user-attachments/assets/96633b74-e579-4ad8-819f-02ea6f110edd" />
 
 
+
 Incident Simulation – Password Reset
 Ticket Type: Account Lockout
 Priority: Medium (P2)
@@ -156,6 +161,7 @@ Screenshots:
 <img width="2241" height="1103" alt="02-password-reset-in-progress png" src="https://github.com/user-attachments/assets/b4dc39ca-bb4e-41fb-8405-790d266d225a" />
 
 <img width="2238" height="1251" alt="03-password-reset-resolved png" src="https://github.com/user-attachments/assets/a8c1be9f-3f6f-4375-8807-ca25facd218e" />
+
 
 
 Incident Simulation – Network Connectivity
