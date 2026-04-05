@@ -53,8 +53,8 @@ Screenshots:
 <img width="2558" height="1174" alt="03-inquiry-help-resolved png" src="https://github.com/user-attachments/assets/5f80ea00-3812-4154-b87f-9bc0c3ad6bfb" />
 
 <br> </br>
-Incident Simulation – Software Installation Issue
-Ticket Type: Application Installation Failure
+Incident Simulation – Software Installation Issue <br>
+Ticket Type: Application Installation Failure <br>
 Priority: Medium (P2)
 
 Summary:
@@ -82,8 +82,8 @@ Screenshots:
 
 
 <br> </br>
-Incident Simulation – Hardware Failure
-Ticket Type: Laptop Power Issue
+Incident Simulation – Hardware Failure <br>
+Ticket Type: Laptop Power Issue <br>
 Priority: High (P2)
 
 Summary:
@@ -112,8 +112,8 @@ Screenshots:
 
 
 <br> </br>
-Incident Simulation – Database Access Issue
-Ticket Type: Database Connectivity Failure
+Incident Simulation – Database Access Issue <br>
+Ticket Type: Database Connectivity Failure <br>
 Priority: High (P2)
 
 Summary:
@@ -142,8 +142,8 @@ Screenshots:
 
 
 <br> </br>
-Incident Simulation – Password Reset
-Ticket Type: Account Lockout
+Incident Simulation – Password Reset <br>
+Ticket Type: Account Lockout <br>
 Priority: Medium (P2)
 
 Summary:
@@ -169,8 +169,8 @@ Screenshots:
 
 
 <br> </br>
-Incident Simulation – Network Connectivity
-Ticket Type: Cannot access the internet  
+Incident Simulation – Network Connectivity <br>
+Ticket Type: Cannot access the internet   <br>
 Priority: Critical (P1)  
 
 Summary:
