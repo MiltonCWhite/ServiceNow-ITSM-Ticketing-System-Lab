@@ -65,7 +65,7 @@ Actions Taken:
 - Escalated to Software Support team
 - Monitored installation process
 - Documented final resolution
-- 
+  
 Outcome:
 Issue resolved after registry cleanup and updated installer applied. Demonstrated escalation, troubleshooting, and documentation in ServiceNow.
 
