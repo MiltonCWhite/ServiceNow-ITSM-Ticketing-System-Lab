@@ -5,6 +5,8 @@ By: Milton White
 
 This project simulates real-world IT support operations using a ServiceNow incident management system. A total of 27 incident tickets were created and managed across multiple categories, including Inquiry/Help, Software, Hardware, Network, Database, and Password Reset.
 
+<img width="2558" height="1304" alt="showcase_25+_tickets png" src="https://github.com/user-attachments/assets/27d73035-e983-4041-b235-55b633849f37" />
+
 The lab demonstrates hands-on experience with:
 
 Incident lifecycle management (New → In Progress → On Hold → Resolved)
@@ -17,6 +19,8 @@ Proper documentation using work notes and resolution notes
 - Version: Australia
 - Role: System Administrator (admin)
 - Purpose: Simulate help desk ticketing system workflows
+
+Screenshots:
 
 <img width="2557" height="1304" alt="01-servicenow-dashboard png" src="https://github.com/user-attachments/assets/9541936e-d647-4853-bf4e-52a0c01ee630" />
 
@@ -47,6 +51,7 @@ Screenshots:
 
 <img width="2558" height="1174" alt="03-inquiry-help-resolved png" src="https://github.com/user-attachments/assets/5f80ea00-3812-4154-b87f-9bc0c3ad6bfb" />
 
+<br> </br>
 Incident Simulation – Software Installation Issue
 Ticket Type: Application Installation Failure
 Priority: Medium (P2)
@@ -93,6 +98,7 @@ Actions Taken:
   
 Outcome:
 Issue resolved after the vendor replaced the battery. Demonstrated hardware troubleshooting, escalation, and vendor coordination.
+
 Screenshots:
 
 <img width="2239" height="435" alt="01-hardware-ticket png" src="https://github.com/user-attachments/assets/bbfe2f81-7d8e-4008-9243-1d5ecbfadfff" />
@@ -104,7 +110,7 @@ Screenshots:
 <img width="2240" height="1253" alt="04-hardware-resolved png" src="https://github.com/user-attachments/assets/cde836d7-2e5f-4afb-bc37-54cb83432f99" />
 
 
-
+<br> </br>
 Incident Simulation – Database Access Issue
 Ticket Type: Database Connectivity Failure
 Priority: High (P2)
@@ -134,7 +140,7 @@ Screenshots:
 <img width="2238" height="1254" alt="04-database-resolved png" src="https://github.com/user-attachments/assets/96633b74-e579-4ad8-819f-02ea6f110edd" />
 
 
-
+<br> </br>
 Incident Simulation – Password Reset
 Ticket Type: Account Lockout
 Priority: Medium (P2)
@@ -161,7 +167,7 @@ Screenshots:
 <img width="2238" height="1251" alt="03-password-reset-resolved png" src="https://github.com/user-attachments/assets/a8c1be9f-3f6f-4375-8807-ca25facd218e" />
 
 
-
+<br> </br>
 Incident Simulation – Network Connectivity
 Ticket Type: Cannot access the internet  
 Priority: Critical (P1)  
@@ -190,9 +196,6 @@ Screenshots:
 
 <img width="2238" height="1254" alt="04-network-connectivity-resolved png" src="https://github.com/user-attachments/assets/ab6eabf7-f45b-4ee7-8411-a18688525fef" />
 
-
-
-<img width="2558" height="1304" alt="showcase_25+_tickets png" src="https://github.com/user-attachments/assets/27d73035-e983-4041-b235-55b633849f37" />
 
 
 
